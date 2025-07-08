@@ -7,7 +7,9 @@
   <li><a href="P5_ToolchainOverview.md">P5_ToolchainOverview</a></li>
   <li><a href="CodeExamples.md">CodeExamples</a></li>
 </ul>
+
 ---
+
 # PART 1: What is Bare-Metal Programming?
 
 When you write **bare-metal code**, you're writing software that runs directly on the hardware—no operating system, no abstraction layers. It's as close to the metal as you can get.
